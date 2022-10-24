@@ -1,0 +1,15 @@
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.csproj.AssemblyReference.cache
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.AssemblyInfoInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.AssemblyInfo.cs
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ExFixacaoEnum.exe
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ExFixacaoEnum.deps.json
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ExFixacaoEnum.runtimeconfig.json
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ExFixacaoEnum.dll
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ref\ExFixacaoEnum.dll
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net6.0\ExFixacaoEnum.pdb
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.dll
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ref\ExFixacaoEnum.dll
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.pdb
+D:\ws-vs2022\Projetos\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net6.0\ExFixacaoEnum.genruntimeconfig.cache

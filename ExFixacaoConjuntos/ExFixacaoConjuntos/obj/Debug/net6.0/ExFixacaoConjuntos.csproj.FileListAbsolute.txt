@@ -1,0 +1,15 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ExFixacaoConjuntos.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ExFixacaoConjuntos.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ExFixacaoConjuntos.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ExFixacaoConjuntos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ref\ExFixacaoConjuntos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\bin\Debug\net6.0\ExFixacaoConjuntos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ref\ExFixacaoConjuntos.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Sistema Estoque C#\ExFixacaoConjuntos\ExFixacaoConjuntos\obj\Debug\net6.0\ExFixacaoConjuntos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ExFixacaoDictionary.exe
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ExFixacaoDictionary.deps.json
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ExFixacaoDictionary.runtimeconfig.json
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ExFixacaoDictionary.dll
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ref\ExFixacaoDictionary.dll
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\bin\Debug\net6.0\ExFixacaoDictionary.pdb
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.AssemblyInfoInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.AssemblyInfo.cs
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.dll
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ref\ExFixacaoDictionary.dll
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.pdb
+D:\ws-vs2022\Projetos\ExFixacaoDictionary\ExFixacaoDictionary\obj\Debug\net6.0\ExFixacaoDictionary.genruntimeconfig.cache

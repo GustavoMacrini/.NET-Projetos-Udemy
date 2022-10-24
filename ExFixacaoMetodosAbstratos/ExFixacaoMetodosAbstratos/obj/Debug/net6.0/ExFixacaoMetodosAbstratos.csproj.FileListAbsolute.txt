@@ -1,0 +1,15 @@
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ExFixacaoMetodosAbstratos.exe
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ExFixacaoMetodosAbstratos.deps.json
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ExFixacaoMetodosAbstratos.runtimeconfig.json
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ExFixacaoMetodosAbstratos.dll
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ref\ExFixacaoMetodosAbstratos.dll
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\bin\Debug\net6.0\ExFixacaoMetodosAbstratos.pdb
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.csproj.AssemblyReference.cache
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.AssemblyInfoInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.AssemblyInfo.cs
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.dll
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ref\ExFixacaoMetodosAbstratos.dll
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.pdb
+D:\ws-vs2022\Projetos\ExFixacaoMetodosAbstratos\ExFixacaoMetodosAbstratos\obj\Debug\net6.0\ExFixacaoMetodosAbstratos.genruntimeconfig.cache

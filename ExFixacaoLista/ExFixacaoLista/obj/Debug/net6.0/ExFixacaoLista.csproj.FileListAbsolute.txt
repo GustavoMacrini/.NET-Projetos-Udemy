@@ -1,0 +1,15 @@
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ExFixacaoLista.exe
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ExFixacaoLista.deps.json
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ExFixacaoLista.runtimeconfig.json
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ExFixacaoLista.dll
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ref\ExFixacaoLista.dll
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net6.0\ExFixacaoLista.pdb
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.csproj.AssemblyReference.cache
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.AssemblyInfoInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.AssemblyInfo.cs
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.dll
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ref\ExFixacaoLista.dll
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.pdb
+D:\ws-vs2022\Projetos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net6.0\ExFixacaoLista.genruntimeconfig.cache

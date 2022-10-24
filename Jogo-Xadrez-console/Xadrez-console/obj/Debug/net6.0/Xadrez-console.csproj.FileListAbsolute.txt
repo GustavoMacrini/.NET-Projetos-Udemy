@@ -1,0 +1,15 @@
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\Xadrez-console.exe
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\Xadrez-console.deps.json
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\Xadrez-console.runtimeconfig.json
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\Xadrez-console.dll
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\ref\Xadrez-console.dll
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\bin\Debug\net6.0\Xadrez-console.pdb
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.csproj.AssemblyReference.cache
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.AssemblyInfoInputs.cache
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.AssemblyInfo.cs
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.dll
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\ref\Xadrez-console.dll
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.pdb
+D:\ws-vs2022\Projetos\Xadrez-console\Xadrez-console\obj\Debug\net6.0\Xadrez-console.genruntimeconfig.cache
